@@ -265,7 +265,7 @@ export default function MapView() {
 
         {visiblePath.map((seg, idx) => (
           <Polyline key={idx} positions={seg} color="#2563eb" weight={5} dashArray="10, 10" opacity={0.8} />
-        )}
+        ))}
       </MapContainer>
 
       {loading && (
