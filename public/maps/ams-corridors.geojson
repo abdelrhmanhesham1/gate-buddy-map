@@ -1,0 +1,3363 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-04-23T06:28:30Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201684308",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.7615154,
+              52.3050433
+            ],
+            [
+              4.7614598,
+              52.3050207
+            ],
+            [
+              4.7614919,
+              52.3049893
+            ],
+            [
+              4.7615057,
+              52.3049757
+            ],
+            [
+              4.7616532,
+              52.3048313
+            ],
+            [
+              4.7617713,
+              52.3048739
+            ],
+            [
+              4.7615795,
+              52.3050642
+            ],
+            [
+              4.7615154,
+              52.3050433
+            ]
+          ]
+        ]
+      },
+      "id": "way/1201684308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201684309",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.7613651,
+              52.3051841
+            ],
+            [
+              4.7615154,
+              52.3050433
+            ],
+            [
+              4.7615476,
+              52.3050116
+            ],
+            [
+              4.761561,
+              52.3049984
+            ],
+            [
+              4.7633116,
+              52.3032723
+            ],
+            [
+              4.7633597,
+              52.303225
+            ],
+            [
+              4.7634771,
+              52.3031092
+            ],
+            [
+              4.7635837,
+              52.303149
+            ],
+            [
+              4.7634657,
+              52.3032641
+            ],
+            [
+              4.7634175,
+              52.3033112
+            ],
+            [
+              4.7627834,
+              52.3039296
+            ],
+            [
+              4.7614584,
+              52.3052219
+            ],
+            [
+              4.7613651,
+              52.3051841
+            ]
+          ]
+        ]
+      },
+      "id": "way/1201684309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201684310",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.7649416,
+              52.306737
+            ],
+            [
+              4.7648994,
+              52.306721
+            ],
+            [
+              4.7649351,
+              52.3066833
+            ],
+            [
+              4.7649457,
+              52.3066721
+            ],
+            [
+              4.7650596,
+              52.3065517
+            ],
+            [
+              4.7651482,
+              52.3065861
+            ],
+            [
+              4.7649919,
+              52.3067546
+            ],
+            [
+              4.7649416,
+              52.306737
+            ]
+          ]
+        ]
+      },
+      "id": "way/1201684310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201684314",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.7661949,
+              52.3086209
+            ],
+            [
+              4.7661942,
+              52.3086057
+            ],
+            [
+              4.7662192,
+              52.3086049
+            ],
+            [
+              4.7662296,
+              52.3086046
+            ],
+            [
+              4.7663773,
+              52.3086
+            ],
+            [
+              4.7663792,
+              52.3086226
+            ],
+            [
+              4.7661955,
+              52.3086283
+            ],
+            [
+              4.7661949,
+              52.3086209
+            ]
+          ]
+        ]
+      },
+      "id": "way/1201684314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/388386882",
+        "bridge": "yes",
+        "highway": "footway",
+        "indoor": "yes",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7563877,
+            52.3075804
+          ],
+          [
+            4.7552596,
+            52.3071602
+          ]
+        ]
+      },
+      "id": "way/388386882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/701409674",
+        "highway": "footway",
+        "indoor": "yes",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7547732,
+            52.3071157
+          ],
+          [
+            4.7552596,
+            52.3071602
+          ]
+        ]
+      },
+      "id": "way/701409674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/945179748",
+        "aeroway": "jet_bridge",
+        "highway": "corridor"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7565634,
+            52.3125177
+          ],
+          [
+            4.7564481,
+            52.312514
+          ],
+          [
+            4.7561315,
+            52.3125058
+          ]
+        ]
+      },
+      "id": "way/945179748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/945179749",
+        "aeroway": "jet_bridge",
+        "bridge": "yes",
+        "highway": "corridor",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7567254,
+            52.312523
+          ],
+          [
+            4.7565634,
+            52.3125177
+          ]
+        ]
+      },
+      "id": "way/945179749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/945179750",
+        "aeroway": "jet_bridge",
+        "highway": "corridor"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7567591,
+            52.3125236
+          ],
+          [
+            4.7567254,
+            52.312523
+          ]
+        ]
+      },
+      "id": "way/945179750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/945179751",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7571096,
+            52.3115341
+          ],
+          [
+            4.7570569,
+            52.3121475
+          ],
+          [
+            4.7569979,
+            52.312951
+          ],
+          [
+            4.7569443,
+            52.3137676
+          ]
+        ]
+      },
+      "id": "way/945179751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/945179752",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7572974,
+            52.3114159
+          ],
+          [
+            4.7573014,
+            52.3113861
+          ],
+          [
+            4.7573533,
+            52.3110292
+          ],
+          [
+            4.758339,
+            52.311048
+          ],
+          [
+            4.7587754,
+            52.3110572
+          ]
+        ]
+      },
+      "id": "way/945179752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/945179753",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7571535,
+            52.3110226
+          ],
+          [
+            4.7571832,
+            52.3107864
+          ]
+        ]
+      },
+      "id": "way/945179753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/945179754",
+        "highway": "footway",
+        "indoor": "yes",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7564722,
+            52.3106249
+          ],
+          [
+            4.7528646,
+            52.3092458
+          ]
+        ]
+      },
+      "id": "way/945179754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/945179755",
+        "bridge": "yes",
+        "highway": "footway",
+        "indoor": "yes",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7575673,
+            52.3107976
+          ],
+          [
+            4.7584087,
+            52.310825
+          ]
+        ]
+      },
+      "id": "way/945179755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/945179756",
+        "highway": "footway",
+        "indoor": "yes",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7566841,
+            52.3107102
+          ],
+          [
+            4.7568772,
+            52.3107774
+          ],
+          [
+            4.7571832,
+            52.3107864
+          ],
+          [
+            4.7575673,
+            52.3107976
+          ]
+        ]
+      },
+      "id": "way/945179756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/945179758",
+        "highway": "footway",
+        "indoor": "yes",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7584087,
+            52.310825
+          ],
+          [
+            4.759364,
+            52.3108587
+          ]
+        ]
+      },
+      "id": "way/945179758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/945179759",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7571535,
+            52.3110226
+          ],
+          [
+            4.7571397,
+            52.3112456
+          ],
+          [
+            4.7571391,
+            52.3112558
+          ],
+          [
+            4.7571373,
+            52.3112845
+          ]
+        ]
+      },
+      "id": "way/945179759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/945185545",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7666598,
+            52.3119381
+          ],
+          [
+            4.7665035,
+            52.311803
+          ],
+          [
+            4.7662809,
+            52.3116161
+          ],
+          [
+            4.7659859,
+            52.3113406
+          ],
+          [
+            4.7655782,
+            52.3109684
+          ],
+          [
+            4.7652724,
+            52.3106781
+          ],
+          [
+            4.7648977,
+            52.3103497
+          ]
+        ]
+      },
+      "id": "way/945185545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1086751821",
+        "bridge": "yes",
+        "highway": "footway",
+        "indoor": "yes",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7566841,
+            52.3107102
+          ],
+          [
+            4.7564722,
+            52.3106249
+          ]
+        ]
+      },
+      "id": "way/1086751821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1200900890",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7610444,
+            52.3101923
+          ],
+          [
+            4.7604312,
+            52.3101692
+          ]
+        ]
+      },
+      "id": "way/1200900890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1200900891",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7610565,
+            52.3098217
+          ],
+          [
+            4.7610444,
+            52.3101923
+          ],
+          [
+            4.7612201,
+            52.3101972
+          ],
+          [
+            4.7612361,
+            52.3105076
+          ],
+          [
+            4.7612352,
+            52.3105423
+          ]
+        ]
+      },
+      "id": "way/1200900891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1200900892",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7604587,
+            52.3098007
+          ],
+          [
+            4.7604312,
+            52.3101692
+          ],
+          [
+            4.7604082,
+            52.3104797
+          ],
+          [
+            4.7604056,
+            52.3105139
+          ],
+          [
+            4.7603953,
+            52.3107433
+          ],
+          [
+            4.759769,
+            52.3107179
+          ],
+          [
+            4.7597435,
+            52.3108975
+          ],
+          [
+            4.7593304,
+            52.3108794
+          ],
+          [
+            4.7593063,
+            52.3110795
+          ],
+          [
+            4.7589413,
+            52.3110642
+          ],
+          [
+            4.7588864,
+            52.3110619
+          ],
+          [
+            4.7588449,
+            52.3110602
+          ],
+          [
+            4.7587754,
+            52.3110572
+          ]
+        ]
+      },
+      "id": "way/1200900892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1200900893",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7606394,
+            52.3105216
+          ],
+          [
+            4.7606425,
+            52.3104905
+          ],
+          [
+            4.7606188,
+            52.3101934
+          ]
+        ]
+      },
+      "id": "way/1200900893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1200900894",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7613629,
+            52.3105459
+          ],
+          [
+            4.7613659,
+            52.3105138
+          ],
+          [
+            4.7613472,
+            52.3102165
+          ]
+        ]
+      },
+      "id": "way/1200900894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1200900895",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.759884,
+            52.3101654
+          ],
+          [
+            4.7598139,
+            52.3104957
+          ],
+          [
+            4.7604056,
+            52.3105139
+          ],
+          [
+            4.7606394,
+            52.3105216
+          ],
+          [
+            4.7607866,
+            52.3105267
+          ],
+          [
+            4.7612352,
+            52.3105423
+          ],
+          [
+            4.7613629,
+            52.3105459
+          ],
+          [
+            4.7620364,
+            52.3105608
+          ],
+          [
+            4.7620817,
+            52.3102428
+          ]
+        ]
+      },
+      "id": "way/1200900895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201151925",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7588906,
+            52.3109958
+          ],
+          [
+            4.7589482,
+            52.3109999
+          ],
+          [
+            4.7589413,
+            52.3110642
+          ]
+        ]
+      },
+      "id": "way/1201151925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201151928",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7587243,
+            52.3114613
+          ],
+          [
+            4.7587754,
+            52.3110572
+          ],
+          [
+            4.7587779,
+            52.3109926
+          ],
+          [
+            4.7588464,
+            52.3109946
+          ],
+          [
+            4.7588906,
+            52.3109958
+          ]
+        ]
+      },
+      "id": "way/1201151928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201151931",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7572939,
+            52.311449
+          ],
+          [
+            4.7572214,
+            52.3114471
+          ],
+          [
+            4.7571941,
+            52.3114464
+          ]
+        ]
+      },
+      "id": "way/1201151931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201151932",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7567797,
+            52.3136802
+          ],
+          [
+            4.7568333,
+            52.3132276
+          ],
+          [
+            4.7571284,
+            52.3132243
+          ],
+          [
+            4.7572437,
+            52.311924
+          ],
+          [
+            4.7572939,
+            52.311449
+          ],
+          [
+            4.7572974,
+            52.3114159
+          ]
+        ]
+      },
+      "id": "way/1201151932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201151935",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7572088,
+            52.3112861
+          ],
+          [
+            4.7572115,
+            52.3112591
+          ],
+          [
+            4.7572128,
+            52.3112459
+          ]
+        ]
+      },
+      "id": "way/1201151935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201151936",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7603119,
+            52.3111868
+          ],
+          [
+            4.7602692,
+            52.3115103
+          ],
+          [
+            4.7587243,
+            52.3114613
+          ],
+          [
+            4.7572974,
+            52.3114159
+          ],
+          [
+            4.7572224,
+            52.3114135
+          ],
+          [
+            4.7571981,
+            52.3114128
+          ],
+          [
+            4.7572088,
+            52.3112861
+          ],
+          [
+            4.7571373,
+            52.3112845
+          ]
+        ]
+      },
+      "id": "way/1201151936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201151939",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7611665,
+            52.3112175
+          ],
+          [
+            4.7611595,
+            52.3112677
+          ]
+        ]
+      },
+      "id": "way/1201151939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201151947",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7607815,
+            52.3112533
+          ],
+          [
+            4.760878,
+            52.311257
+          ],
+          [
+            4.7609198,
+            52.3112586
+          ],
+          [
+            4.7611595,
+            52.3112677
+          ],
+          [
+            4.7614103,
+            52.3112772
+          ],
+          [
+            4.7614709,
+            52.3112795
+          ]
+        ]
+      },
+      "id": "way/1201151947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201151952",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7607866,
+            52.3105267
+          ],
+          [
+            4.7607198,
+            52.3109581
+          ],
+          [
+            4.7600112,
+            52.3109392
+          ],
+          [
+            4.7599702,
+            52.3109381
+          ],
+          [
+            4.7598588,
+            52.3109352
+          ]
+        ]
+      },
+      "id": "way/1201151952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201151953",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7598776,
+            52.3112271
+          ],
+          [
+            4.7599299,
+            52.3112286
+          ],
+          [
+            4.7607815,
+            52.3112533
+          ],
+          [
+            4.7608016,
+            52.3108999
+          ],
+          [
+            4.7612577,
+            52.3109149
+          ],
+          [
+            4.7613183,
+            52.3109168
+          ],
+          [
+            4.7614776,
+            52.3109221
+          ],
+          [
+            4.7614709,
+            52.3109844
+          ]
+        ]
+      },
+      "id": "way/1201151953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201151954",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7607198,
+            52.3109581
+          ],
+          [
+            4.7612494,
+            52.3109766
+          ],
+          [
+            4.7613086,
+            52.3109787
+          ],
+          [
+            4.7614709,
+            52.3109844
+          ]
+        ]
+      },
+      "id": "way/1201151954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201151955",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7598588,
+            52.3109352
+          ],
+          [
+            4.7598629,
+            52.3108671
+          ],
+          [
+            4.7599801,
+            52.3108712
+          ],
+          [
+            4.7600178,
+            52.3108725
+          ],
+          [
+            4.7608016,
+            52.3108999
+          ],
+          [
+            4.7608432,
+            52.3105367
+          ],
+          [
+            4.7607866,
+            52.3105267
+          ]
+        ]
+      },
+      "id": "way/1201151955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528474",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7690105,
+            52.3085237
+          ],
+          [
+            4.7691715,
+            52.3087804
+          ],
+          [
+            4.7703195,
+            52.3095544
+          ],
+          [
+            4.7735783,
+            52.3094708
+          ],
+          [
+            4.7737602,
+            52.3094659
+          ]
+        ]
+      },
+      "id": "way/1201528474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528475",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7654352,
+            52.3086434
+          ],
+          [
+            4.7661949,
+            52.3086209
+          ],
+          [
+            4.7662208,
+            52.30862
+          ],
+          [
+            4.7662323,
+            52.3086196
+          ],
+          [
+            4.7690105,
+            52.3085237
+          ],
+          [
+            4.7699198,
+            52.3075488
+          ],
+          [
+            4.7736105,
+            52.3074315
+          ]
+        ]
+      },
+      "id": "way/1201528475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528476",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7694867,
+            52.3079756
+          ],
+          [
+            4.7692493,
+            52.3078817
+          ]
+        ]
+      },
+      "id": "way/1201528476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528477",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7691768,
+            52.3082687
+          ],
+          [
+            4.7689019,
+            52.3081892
+          ]
+        ]
+      },
+      "id": "way/1201528477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528478",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7702495,
+            52.3095101
+          ],
+          [
+            4.7702578,
+            52.3095593
+          ],
+          [
+            4.7699815,
+            52.3096807
+          ]
+        ]
+      },
+      "id": "way/1201528478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528479",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7697172,
+            52.3091941
+          ],
+          [
+            4.7694746,
+            52.3093043
+          ]
+        ]
+      },
+      "id": "way/1201528479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528480",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7692763,
+            52.3088464
+          ],
+          [
+            4.7690347,
+            52.3089575
+          ]
+        ]
+      },
+      "id": "way/1201528480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528481",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7683484,
+            52.3085854
+          ],
+          [
+            4.7683802,
+            52.3087869
+          ]
+        ]
+      },
+      "id": "way/1201528481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528482",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.768125,
+            52.3085916
+          ],
+          [
+            4.7680959,
+            52.3083474
+          ]
+        ]
+      },
+      "id": "way/1201528482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528483",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7674016,
+            52.3086117
+          ],
+          [
+            4.7673717,
+            52.3083835
+          ]
+        ]
+      },
+      "id": "way/1201528483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528484",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7675158,
+            52.3086085
+          ],
+          [
+            4.767538,
+            52.308823
+          ]
+        ]
+      },
+      "id": "way/1201528484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528485",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7667977,
+            52.3086492
+          ],
+          [
+            4.7668192,
+            52.3088378
+          ]
+        ]
+      },
+      "id": "way/1201528485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528486",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7666825,
+            52.3086316
+          ],
+          [
+            4.7666582,
+            52.3084147
+          ]
+        ]
+      },
+      "id": "way/1201528486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528487",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7659783,
+            52.3086511
+          ],
+          [
+            4.7659475,
+            52.3084294
+          ]
+        ]
+      },
+      "id": "way/1201528487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528488",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7660586,
+            52.3086489
+          ],
+          [
+            4.7660883,
+            52.3088837
+          ]
+        ]
+      },
+      "id": "way/1201528488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528489",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7692036,
+            52.3085617
+          ],
+          [
+            4.7691768,
+            52.3082687
+          ],
+          [
+            4.7694867,
+            52.3079756
+          ],
+          [
+            4.7698045,
+            52.3076751
+          ],
+          [
+            4.7695684,
+            52.3075734
+          ]
+        ]
+      },
+      "id": "way/1201528489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528490",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7653413,
+            52.3086098
+          ],
+          [
+            4.7655156,
+            52.3086164
+          ],
+          [
+            4.7655746,
+            52.3086623
+          ],
+          [
+            4.765721,
+            52.3086582
+          ],
+          [
+            4.7659783,
+            52.3086511
+          ],
+          [
+            4.7660586,
+            52.3086489
+          ],
+          [
+            4.7665805,
+            52.3086344
+          ],
+          [
+            4.7666825,
+            52.3086316
+          ],
+          [
+            4.7674016,
+            52.3086117
+          ],
+          [
+            4.7675158,
+            52.3086085
+          ],
+          [
+            4.768125,
+            52.3085916
+          ],
+          [
+            4.7683484,
+            52.3085854
+          ],
+          [
+            4.7692036,
+            52.3085617
+          ],
+          [
+            4.7692654,
+            52.3088378
+          ],
+          [
+            4.7692763,
+            52.3088464
+          ],
+          [
+            4.7697172,
+            52.3091941
+          ],
+          [
+            4.7701212,
+            52.3095127
+          ],
+          [
+            4.7702495,
+            52.3095101
+          ],
+          [
+            4.7733041,
+            52.3094494
+          ]
+        ]
+      },
+      "id": "way/1201528490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528491",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7653359,
+            52.3074865
+          ],
+          [
+            4.7653413,
+            52.3075668
+          ]
+        ]
+      },
+      "id": "way/1201528491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528492",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7651871,
+            52.3074832
+          ],
+          [
+            4.7653359,
+            52.3074865
+          ],
+          [
+            4.7653252,
+            52.3073864
+          ]
+        ]
+      },
+      "id": "way/1201528492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528493",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7654003,
+            52.3083819
+          ],
+          [
+            4.7653222,
+            52.3080377
+          ],
+          [
+            4.765317,
+            52.308015
+          ],
+          [
+            4.7653091,
+            52.3079801
+          ],
+          [
+            4.7651871,
+            52.3074832
+          ]
+        ]
+      },
+      "id": "way/1201528493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528496",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7652943,
+            52.3091387
+          ],
+          [
+            4.7652876,
+            52.3090083
+          ],
+          [
+            4.7655344,
+            52.3089804
+          ],
+          [
+            4.7655205,
+            52.3087116
+          ],
+          [
+            4.7655183,
+            52.3086689
+          ],
+          [
+            4.7655156,
+            52.3086164
+          ],
+          [
+            4.7654861,
+            52.3083802
+          ],
+          [
+            4.7654227,
+            52.3080622
+          ],
+          [
+            4.7654103,
+            52.3080091
+          ],
+          [
+            4.765403,
+            52.3079735
+          ],
+          [
+            4.7653091,
+            52.3079801
+          ]
+        ]
+      },
+      "id": "way/1201528496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528499",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7653432,
+            52.3086385
+          ],
+          [
+            4.7654352,
+            52.3086434
+          ],
+          [
+            4.7654003,
+            52.3083819
+          ],
+          [
+            4.7654861,
+            52.3083802
+          ]
+        ]
+      },
+      "id": "way/1201528499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528502",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7652231,
+            52.308612
+          ],
+          [
+            4.7652205,
+            52.3086602
+          ],
+          [
+            4.7652179,
+            52.3087066
+          ]
+        ]
+      },
+      "id": "way/1201528502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528507",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7619563,
+            52.3112566
+          ],
+          [
+            4.7623748,
+            52.3112795
+          ],
+          [
+            4.7633189,
+            52.3109057
+          ],
+          [
+            4.7633649,
+            52.3108874
+          ],
+          [
+            4.7653451,
+            52.3101019
+          ],
+          [
+            4.7653588,
+            52.3100256
+          ],
+          [
+            4.7653611,
+            52.3100129
+          ],
+          [
+            4.7653641,
+            52.3099964
+          ],
+          [
+            4.7654057,
+            52.3096905
+          ],
+          [
+            4.7653788,
+            52.3092084
+          ],
+          [
+            4.7653775,
+            52.3091797
+          ],
+          [
+            4.7653761,
+            52.3091412
+          ],
+          [
+            4.7653476,
+            52.3087066
+          ],
+          [
+            4.7653449,
+            52.3086657
+          ],
+          [
+            4.7653432,
+            52.3086385
+          ],
+          [
+            4.7653413,
+            52.3086098
+          ]
+        ]
+      },
+      "id": "way/1201528507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528508",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7643086,
+            52.3091871
+          ],
+          [
+            4.7642684,
+            52.3086295
+          ],
+          [
+            4.7652231,
+            52.308612
+          ],
+          [
+            4.7653413,
+            52.3086098
+          ],
+          [
+            4.7650731,
+            52.3074881
+          ],
+          [
+            4.7651871,
+            52.3074832
+          ]
+        ]
+      },
+      "id": "way/1201528508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528516",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.764839,
+            52.3091994
+          ],
+          [
+            4.7647273,
+            52.3092042
+          ]
+        ]
+      },
+      "id": "way/1201528516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528517",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7646425,
+            52.3092051
+          ],
+          [
+            4.7647273,
+            52.3092042
+          ]
+        ]
+      },
+      "id": "way/1201528517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528521",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7647619,
+            52.3099709
+          ],
+          [
+            4.7647821,
+            52.3099338
+          ],
+          [
+            4.7649121,
+            52.3096938
+          ],
+          [
+            4.7649282,
+            52.3096528
+          ],
+          [
+            4.7649845,
+            52.3094265
+          ]
+        ]
+      },
+      "id": "way/1201528521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528522",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7620364,
+            52.3105608
+          ],
+          [
+            4.7628361,
+            52.3105875
+          ],
+          [
+            4.7638482,
+            52.3101944
+          ],
+          [
+            4.764542,
+            52.309925
+          ],
+          [
+            4.7645646,
+            52.3098872
+          ],
+          [
+            4.7647686,
+            52.3096831
+          ],
+          [
+            4.7647767,
+            52.309643
+          ],
+          [
+            4.7647301,
+            52.3092307
+          ],
+          [
+            4.7647273,
+            52.3092042
+          ],
+          [
+            4.7647244,
+            52.3091772
+          ]
+        ]
+      },
+      "id": "way/1201528522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528523",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7643649,
+            52.3097651
+          ],
+          [
+            4.7643086,
+            52.3091871
+          ],
+          [
+            4.7646385,
+            52.3091756
+          ],
+          [
+            4.7646425,
+            52.3092051
+          ],
+          [
+            4.7646466,
+            52.3092363
+          ]
+        ]
+      },
+      "id": "way/1201528523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528526",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.764837,
+            52.3091748
+          ],
+          [
+            4.764839,
+            52.3091994
+          ],
+          [
+            4.764841,
+            52.3092256
+          ],
+          [
+            4.7649742,
+            52.3092174
+          ],
+          [
+            4.7650194,
+            52.3092162
+          ],
+          [
+            4.7650664,
+            52.3092149
+          ]
+        ]
+      },
+      "id": "way/1201528526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528527",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.765303,
+            52.3094101
+          ],
+          [
+            4.7649845,
+            52.3094265
+          ],
+          [
+            4.7649742,
+            52.3092174
+          ],
+          [
+            4.7649725,
+            52.309183
+          ]
+        ]
+      },
+      "id": "way/1201528527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528530",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7653238,
+            52.3099882
+          ],
+          [
+            4.765303,
+            52.3094101
+          ],
+          [
+            4.7652957,
+            52.3092059
+          ],
+          [
+            4.7652957,
+            52.3091789
+          ],
+          [
+            4.7652943,
+            52.3091387
+          ],
+          [
+            4.7653761,
+            52.3091412
+          ]
+        ]
+      },
+      "id": "way/1201528530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528539",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7651535,
+            52.3100714
+          ],
+          [
+            4.765119,
+            52.3100857
+          ],
+          [
+            4.7650771,
+            52.3101005
+          ]
+        ]
+      },
+      "id": "way/1201528539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528540",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7612201,
+            52.3101972
+          ],
+          [
+            4.7637319,
+            52.3102825
+          ],
+          [
+            4.7642255,
+            52.3100005
+          ],
+          [
+            4.764301,
+            52.3098731
+          ],
+          [
+            4.7643271,
+            52.309829
+          ],
+          [
+            4.7643649,
+            52.3097651
+          ],
+          [
+            4.7650033,
+            52.3097381
+          ],
+          [
+            4.7651535,
+            52.3100714
+          ],
+          [
+            4.7652143,
+            52.3101317
+          ]
+        ]
+      },
+      "id": "way/1201528540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528541",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7635958,
+            52.3107745
+          ],
+          [
+            4.7650569,
+            52.3101915
+          ],
+          [
+            4.7651381,
+            52.3101591
+          ],
+          [
+            4.765181,
+            52.3101439
+          ],
+          [
+            4.7652143,
+            52.3101317
+          ],
+          [
+            4.7653037,
+            52.3100849
+          ],
+          [
+            4.7653091,
+            52.310059
+          ],
+          [
+            4.7653174,
+            52.3100192
+          ],
+          [
+            4.7653204,
+            52.3100047
+          ],
+          [
+            4.7653238,
+            52.3099882
+          ],
+          [
+            4.7653641,
+            52.3099964
+          ]
+        ]
+      },
+      "id": "way/1201528541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528542",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7633189,
+            52.3109057
+          ],
+          [
+            4.7633833,
+            52.3109647
+          ],
+          [
+            4.7648977,
+            52.3103497
+          ],
+          [
+            4.7654083,
+            52.3101423
+          ],
+          [
+            4.7654553,
+            52.3096626
+          ],
+          [
+            4.7654271,
+            52.3090854
+          ],
+          [
+            4.7650436,
+            52.3090921
+          ],
+          [
+            4.7650032,
+            52.3090928
+          ],
+          [
+            4.7649577,
+            52.3090936
+          ],
+          [
+            4.7649725,
+            52.309183
+          ]
+        ]
+      },
+      "id": "way/1201528542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528546",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.759883,
+            52.3111713
+          ],
+          [
+            4.7599368,
+            52.3111732
+          ],
+          [
+            4.7603119,
+            52.3111868
+          ],
+          [
+            4.7608834,
+            52.3112073
+          ],
+          [
+            4.7609264,
+            52.3112089
+          ],
+          [
+            4.7611665,
+            52.3112175
+          ],
+          [
+            4.7614161,
+            52.3112265
+          ],
+          [
+            4.7614762,
+            52.3112287
+          ],
+          [
+            4.761892,
+            52.3112528
+          ],
+          [
+            4.7619173,
+            52.3112543
+          ],
+          [
+            4.7619563,
+            52.3112566
+          ],
+          [
+            4.7619537,
+            52.3113123
+          ],
+          [
+            4.7619128,
+            52.3113106
+          ],
+          [
+            4.7618859,
+            52.3113094
+          ],
+          [
+            4.7618514,
+            52.3113079
+          ]
+        ]
+      },
+      "id": "way/1201528546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528547",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7603953,
+            52.3107433
+          ],
+          [
+            4.761892,
+            52.3107941
+          ],
+          [
+            4.7618514,
+            52.3113079
+          ],
+          [
+            4.7618276,
+            52.3114829
+          ]
+        ]
+      },
+      "id": "way/1201528547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528548",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.761782,
+            52.3119174
+          ],
+          [
+            4.7622165,
+            52.3119207
+          ],
+          [
+            4.7626081,
+            52.3118731
+          ],
+          [
+            4.7626993,
+            52.3118272
+          ],
+          [
+            4.7628763,
+            52.3115239
+          ],
+          [
+            4.7629622,
+            52.3114534
+          ],
+          [
+            4.7634315,
+            52.3111549
+          ],
+          [
+            4.7634745,
+            52.3110696
+          ],
+          [
+            4.7634289,
+            52.3109434
+          ],
+          [
+            4.7634222,
+            52.3109327
+          ],
+          [
+            4.7636703,
+            52.310836
+          ],
+          [
+            4.7635958,
+            52.3107745
+          ],
+          [
+            4.7633484,
+            52.3108683
+          ],
+          [
+            4.7633649,
+            52.3108874
+          ]
+        ]
+      },
+      "id": "way/1201528548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201528549",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7618276,
+            52.3114829
+          ],
+          [
+            4.761782,
+            52.3119174
+          ],
+          [
+            4.7617418,
+            52.312352
+          ],
+          [
+            4.7614092,
+            52.3128603
+          ],
+          [
+            4.7614293,
+            52.3128816
+          ],
+          [
+            4.7618571,
+            52.3129636
+          ],
+          [
+            4.7622836,
+            52.3128874
+          ],
+          [
+            4.7620462,
+            52.3123725
+          ],
+          [
+            4.7617418,
+            52.312352
+          ]
+        ]
+      },
+      "id": "way/1201528549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201684296",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7637427,
+            52.3084062
+          ],
+          [
+            4.7636738,
+            52.3084037
+          ]
+        ]
+      },
+      "id": "way/1201684296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201684297",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7637772,
+            52.3088425
+          ],
+          [
+            4.763715,
+            52.3088448
+          ]
+        ]
+      },
+      "id": "way/1201684297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201684298",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7638486,
+            52.3097859
+          ],
+          [
+            4.763797,
+            52.3097899
+          ]
+        ]
+      },
+      "id": "way/1201684298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201684299",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7638211,
+            52.3094238
+          ],
+          [
+            4.7637688,
+            52.3094247
+          ]
+        ]
+      },
+      "id": "way/1201684299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201684300",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7619537,
+            52.3113123
+          ],
+          [
+            4.7618759,
+            52.3123348
+          ],
+          [
+            4.7617465,
+            52.3123741
+          ],
+          [
+            4.7614507,
+            52.3128492
+          ],
+          [
+            4.761849,
+            52.3129259
+          ],
+          [
+            4.7622205,
+            52.3128628
+          ],
+          [
+            4.7619912,
+            52.3123561
+          ],
+          [
+            4.7618759,
+            52.3123348
+          ]
+        ]
+      },
+      "id": "way/1201684300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201684301",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7619908,
+            52.3059185
+          ],
+          [
+            4.7616506,
+            52.3062532
+          ],
+          [
+            4.7633511,
+            52.3069067
+          ],
+          [
+            4.7635268,
+            52.3069789
+          ],
+          [
+            4.7635978,
+            52.3078194
+          ],
+          [
+            4.7636193,
+            52.3081146
+          ],
+          [
+            4.7637266,
+            52.3081113
+          ],
+          [
+            4.7637427,
+            52.3084062
+          ],
+          [
+            4.76376,
+            52.308623
+          ],
+          [
+            4.7637772,
+            52.3088425
+          ],
+          [
+            4.7638211,
+            52.3094238
+          ],
+          [
+            4.7638486,
+            52.3097859
+          ],
+          [
+            4.7638486,
+            52.3100546
+          ],
+          [
+            4.7638482,
+            52.3101944
+          ]
+        ]
+      },
+      "id": "way/1201684301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201684311",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7662814,
+            52.3050847
+          ],
+          [
+            4.7662264,
+            52.3048083
+          ]
+        ]
+      },
+      "id": "way/1201684311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201684312",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7667803,
+            52.3052651
+          ],
+          [
+            4.7672778,
+            52.305174
+          ]
+        ]
+      },
+      "id": "way/1201684312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201684313",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7651871,
+            52.3074832
+          ],
+          [
+            4.7649819,
+            52.3070551
+          ],
+          [
+            4.7647512,
+            52.3069239
+          ],
+          [
+            4.7649416,
+            52.306737
+          ],
+          [
+            4.76498,
+            52.3066994
+          ],
+          [
+            4.7649906,
+            52.306689
+          ],
+          [
+            4.766205,
+            52.3054996
+          ],
+          [
+            4.7663203,
+            52.3055004
+          ],
+          [
+            4.7667803,
+            52.3052651
+          ],
+          [
+            4.7665939,
+            52.3051002
+          ],
+          [
+            4.7662814,
+            52.3050847
+          ],
+          [
+            4.7661138,
+            52.3054422
+          ],
+          [
+            4.766205,
+            52.3054996
+          ]
+        ]
+      },
+      "id": "way/1201684313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1290237279",
+        "fixme": "fix positioning",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.76376,
+            52.308623
+          ],
+          [
+            4.7653413,
+            52.3086098
+          ]
+        ]
+      },
+      "id": "way/1290237279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314564514",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7733017,
+            52.3094185
+          ],
+          [
+            4.7733041,
+            52.3094494
+          ],
+          [
+            4.7733083,
+            52.3094977
+          ]
+        ]
+      },
+      "id": "way/1314564514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314564516",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7737336,
+            52.3094406
+          ],
+          [
+            4.7737309,
+            52.3094092
+          ],
+          [
+            4.7738802,
+            52.3094051
+          ]
+        ]
+      },
+      "id": "way/1314564516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316931439",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7647512,
+            52.3069239
+          ],
+          [
+            4.7642201,
+            52.3067895
+          ],
+          [
+            4.7619908,
+            52.3059185
+          ],
+          [
+            4.761892,
+            52.3058799
+          ]
+        ]
+      },
+      "id": "way/1316931439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316931440",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7634052,
+            52.3032704
+          ],
+          [
+            4.7634271,
+            52.3032492
+          ],
+          [
+            4.7634657,
+            52.3032641
+          ]
+        ]
+      },
+      "id": "way/1316931440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316931441",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7634271,
+            52.3032492
+          ],
+          [
+            4.7633597,
+            52.303225
+          ]
+        ]
+      },
+      "id": "way/1316931441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316931442",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7633116,
+            52.3032723
+          ],
+          [
+            4.7633827,
+            52.3032984
+          ],
+          [
+            4.7634175,
+            52.3033112
+          ]
+        ]
+      },
+      "id": "way/1316931442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316931444",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7627834,
+            52.3039296
+          ],
+          [
+            4.7628338,
+            52.3039488
+          ]
+        ]
+      },
+      "id": "way/1316931444"
+    }
+  ]
+}

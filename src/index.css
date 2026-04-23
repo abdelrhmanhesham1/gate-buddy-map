@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #0f172a;
+}
+
+/* Leaflet popup z-index fix */
+.leaflet-popup {
+  z-index: 1500 !important;
+}
+
+/* Leaflet controls z-index fix */
+.leaflet-control-zoom {
+  display: none; /* We use custom floor selector */
+}
+
+/* Smooth popup transitions */
+.leaflet-popup-content-wrapper {
+  border-radius: 12px !important;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.2) !important;
+  font-family: 'Inter', sans-serif !important;
+}
+
+.leaflet-popup-content {
+  margin: 14px 18px !important;
+  font-size: 13px !important;
+}
+
+/* Remove focus outline on map container */
+.leaflet-container:focus {
+  outline: none;
+}
+
